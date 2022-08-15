@@ -1,0 +1,4 @@
+Monthly bike-sharing trip data from January 2022 to (most recent) July 2022. 
+Each spreadsheet was concatenated into one single file, '2022-yearly-divvy-tripdata.csv'.
+
+https://divvy-tripdata.s3.amazonaws.com/index.html
