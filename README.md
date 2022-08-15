@@ -1,7 +1,7 @@
 # Converting Divvy Bike Users into Loyal Members: A Case Study by Givarrel Veivel
 #####
 =====
-![header-img](https://pbs.twimg.com/profile_banners/1429863902/1643283738/1500x500)
+![header-img](https://pbs.twimg.com/profile_banners/1365175176/1621969553/1500x500)
   
 ## About
 This is a data analysis case study / project done as part of the Google Data Analytics Professional Certificate. This project features mainly Tableau viz using data provided by Lyft's Divvy Bikesharing service.
