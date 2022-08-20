@@ -8,7 +8,7 @@ This is a data analysis case study / project done as part of the Google Data Ana
 ## About
 Divvy is a bikesharing service provided by Lyft in Chicago, US. This case study takes a detailed look at internal data published on their website in an attempt to solve a business problem.
 
-**data viz draft 1**: https://public.tableau.com/shared/PC6P5BJ35?:showVizHome=no#1
+**FINAL RESULT**: https://public.tableau.com/views/BikesharingCaseStudyv2/ConvertingDivvyUsersintoLoyalMembers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Outline
 - [Business Problem](#business-problem)
@@ -21,6 +21,8 @@ Divvy is a bikesharing service provided by Lyft in Chicago, US. This case study 
 ## Business Problem
 We want to answer the following question:
 > How can we convert existing casual Divvy users into annual members?
+
+To answer that, we'll look into:
 > How do annual members and casual riders use Divvy
 differently?
   
